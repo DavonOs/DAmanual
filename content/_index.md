@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  数据分析手册&nbsp;<br class="sm:hx-block hx-hidden" />从零开始
+  数据分析手册&nbsp;<br class="sm:hx-block hx-hidden" />从零开始你的数分之路
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -35,19 +35,20 @@ layout: hextra-home
     image="/images/hextra-doc.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
-    link="docs"
+    link="mindest"
   >}}
   {{< hextra/feature-card
     title="数理统计"
-    subtitle="只需使用 Markdown 进行编辑。多样的 Shortcode 组件开箱即用。"
+    subtitle="统计学的相关基础"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/hextra-markdown.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+    link="statistics"
   >}}
   {{< hextra/feature-card
     title="工具技巧"
-    subtitle="内置 FlexSearch 全文搜索，无需额外设置。"
+    subtitle="EXCEL、POWERBI、MYSQL、PYTHON等工具的运用"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/hextra-search.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
