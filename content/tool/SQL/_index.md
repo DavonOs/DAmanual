@@ -1,5 +1,5 @@
 ---
-title: Demo Page
+title: SQL
 type: docs
 
 ---
