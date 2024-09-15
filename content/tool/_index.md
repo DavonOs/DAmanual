@@ -29,11 +29,6 @@ layout: hextra-home
 </div>
 {{< /hextra/hero-container >}}
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section >}}
-  Latest Projects
-{{< /hextra/hero-section >}}
-</div>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
