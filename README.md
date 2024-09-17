@@ -62,10 +62,10 @@ Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](http
 
 ```shell
 # Clone the repo
-git clone https://github.com/imfing/hextra-starter-template.git
+git clone https://github.com/DavonOs/damanual.git
 
 # Change directory
-cd hextra-starter-template
+cd damanual
 
 # Start the server
 hugo mod tidy
