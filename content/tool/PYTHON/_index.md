@@ -45,5 +45,7 @@ type: docs
 本指南参考书目：
 
 Python编程：从入门到实践（第3版）
+
 Python编程快速上手
+
 Python极客项目编程
